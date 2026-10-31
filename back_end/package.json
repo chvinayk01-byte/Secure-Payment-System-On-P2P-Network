@@ -1,0 +1,25 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/chvinayk01-byte/Secure-Payment-System-On-P2P-Network#readme",
+  "bugs": {
+    "url": "https://github.com/chvinayk01-byte/Secure-Payment-System-On-P2P-Network/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chvinayk01-byte/Secure-Payment-System-On-P2P-Network.git"
+  },
+  "license": "ISC",
+  "author": "vinay ch",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.10.2"
+  }
+}
